@@ -1,0 +1,153 @@
+[
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[0].description",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[0].uri_safe_identifier_override",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[1].description",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[1].uri_safe_identifier_override",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[2].description",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[2].uri_safe_identifier_override",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[3].description",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].children[3].uri_safe_identifier_override",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].description",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'string'",
+        "json_path": "$.concepts[0].uri_safe_identifier_override",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "None is not of type 'object'",
+        "json_path": "$.sort",
+        "offending_value": null,
+        "schema_validator_type": "type",
+        "children": []
+    },
+    {
+        "message": "'title' is a required property",
+        "json_path": "$",
+        "offending_value": {
+            "sort": null,
+            "concepts": [
+                {
+                    "label": "United Kingdom",
+                    "notation": "United Kingdom",
+                    "description": null,
+                    "sort_order": 0,
+                    "same_as": "http://statistics.data.gov.uk/id/statistical-geography/K02000001",
+                    "children": [
+                        {
+                            "label": "England",
+                            "notation": "England",
+                            "description": null,
+                            "sort_order": 0,
+                            "same_as": "http://statistics.data.gov.uk/id/statistical-geography/E92000001",
+                            "children": [],
+                            "uri_safe_identifier_override": null
+                        },
+                        {
+                            "label": "Northern Ireland",
+                            "notation": "Northern Ireland",
+                            "description": null,
+                            "sort_order": 1,
+                            "same_as": "http://statistics.data.gov.uk/id/statistical-geography/N92000002",
+                            "children": [],
+                            "uri_safe_identifier_override": null
+                        },
+                        {
+                            "label": "Scotland",
+                            "notation": "Scotland",
+                            "description": null,
+                            "sort_order": 2,
+                            "same_as": "http://statistics.data.gov.uk/id/statistical-geography/S92000003",
+                            "children": [],
+                            "uri_safe_identifier_override": null
+                        },
+                        {
+                            "label": "Wales",
+                            "notation": "Wales",
+                            "description": null,
+                            "sort_order": 3,
+                            "same_as": "http://statistics.data.gov.uk/id/statistical-geography/W92000004",
+                            "children": [],
+                            "uri_safe_identifier_override": null
+                        }
+                    ],
+                    "uri_safe_identifier_override": null
+                }
+            ],
+            "schema": "https://purl.org/csv-cubed/code-list-config/v1",
+            "metadata": {
+                "title": "Geography",
+                "identifier": null,
+                "summary": "",
+                "description": "",
+                "creator_uri": null,
+                "publisher_uri": null,
+                "landing_page_uris": [],
+                "theme_uris": [],
+                "keywords": [],
+                "dataset_issued": null,
+                "dataset_modified": null,
+                "license_uri": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+                "public_contact_point_uri": null,
+                "uri_safe_identifier_override": null
+            }
+        },
+        "schema_validator_type": "required",
+        "children": []
+    }
+]

@@ -1,0 +1,116 @@
+
+- This file is a code list.
+
+- The code list has the following catalog metadata:
+        - Title: Year
+        - Label: Year
+        - Issued: 2022-10-04T15:06:58.949573
+        - Modified: 2022-10-04T15:06:58.949573
+        - License: None
+        - Creator: None
+        - Publisher: None
+        - Landing Pages: None
+        - Themes: None
+        - Keywords: None
+        - Contact Point: None
+        - Identifier: Year
+        - Comment: None
+        - Description: None
+        
+
+- The code list has the following dataset information:
+        - Number of Concepts: 61
+        - Number of Duplicates: 0
+        - First 10 Concepts: 
+ Uri Identifier  Label  Notation  Parent Uri Identifier  Sort Priority  Description                      Original Concept URI
+           1990   1990      1990                    NaN              0          NaN http://reference.data.gov.uk/id/year/1990
+           1991   1991      1991                    NaN              1          NaN http://reference.data.gov.uk/id/year/1991
+           1992   1992      1992                    NaN              2          NaN http://reference.data.gov.uk/id/year/1992
+           1993   1993      1993                    NaN              3          NaN http://reference.data.gov.uk/id/year/1993
+           1994   1994      1994                    NaN              4          NaN http://reference.data.gov.uk/id/year/1994
+           1995   1995      1995                    NaN              5          NaN http://reference.data.gov.uk/id/year/1995
+           1996   1996      1996                    NaN              6          NaN http://reference.data.gov.uk/id/year/1996
+           1997   1997      1997                    NaN              7          NaN http://reference.data.gov.uk/id/year/1997
+           1998   1998      1998                    NaN              8          NaN http://reference.data.gov.uk/id/year/1998
+           1999   1999      1999                    NaN              9          NaN http://reference.data.gov.uk/id/year/1999
+        - Last 10 Concepts: 
+ Uri Identifier  Label  Notation  Parent Uri Identifier  Sort Priority  Description                      Original Concept URI
+           2041   2041      2041                    NaN             51          NaN http://reference.data.gov.uk/id/year/2041
+           2042   2042      2042                    NaN             52          NaN http://reference.data.gov.uk/id/year/2042
+           2043   2043      2043                    NaN             53          NaN http://reference.data.gov.uk/id/year/2043
+           2044   2044      2044                    NaN             54          NaN http://reference.data.gov.uk/id/year/2044
+           2045   2045      2045                    NaN             55          NaN http://reference.data.gov.uk/id/year/2045
+           2046   2046      2046                    NaN             56          NaN http://reference.data.gov.uk/id/year/2046
+           2047   2047      2047                    NaN             57          NaN http://reference.data.gov.uk/id/year/2047
+           2048   2048      2048                    NaN             58          NaN http://reference.data.gov.uk/id/year/2048
+           2049   2049      2049                    NaN             59          NaN http://reference.data.gov.uk/id/year/2049
+           2050   2050      2050                    NaN             60          NaN http://reference.data.gov.uk/id/year/2050
+        
+
+- The code list has the following concepts information:
+        - Concepts hierarchy depth: 1
+        - Concepts hierarchy:
+root
+├── 1990
+├── 1991
+├── 1992
+├── 1993
+├── 1994
+├── 1995
+├── 1996
+├── 1997
+├── 1998
+├── 1999
+├── 2000
+├── 2001
+├── 2002
+├── 2003
+├── 2004
+├── 2005
+├── 2006
+├── 2007
+├── 2008
+├── 2009
+├── 2010
+├── 2011
+├── 2012
+├── 2013
+├── 2014
+├── 2015
+├── 2016
+├── 2017
+├── 2018
+├── 2019
+├── 2020
+├── 2021
+├── 2022
+├── 2023
+├── 2024
+├── 2025
+├── 2026
+├── 2027
+├── 2028
+├── 2029
+├── 2030
+├── 2031
+├── 2032
+├── 2033
+├── 2034
+├── 2035
+├── 2036
+├── 2037
+├── 2038
+├── 2039
+├── 2040
+├── 2041
+├── 2042
+├── 2043
+├── 2044
+├── 2045
+├── 2046
+├── 2047
+├── 2048
+├── 2049
+└── 2050
+
+        

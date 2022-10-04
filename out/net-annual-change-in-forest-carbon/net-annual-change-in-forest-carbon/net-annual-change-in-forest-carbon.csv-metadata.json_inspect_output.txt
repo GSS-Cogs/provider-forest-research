@@ -1,0 +1,74 @@
+
+- This file is a data cube.
+
+- The data cube has the following catalog metadata:
+        - Title: Net annual change in forest carbon
+        - Label: Net annual change in forest carbon
+        - Issued: 2022-09-29T00:00:00
+        - Modified: 2022-09-29T00:00:00
+        - License: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+        - Creator: None
+        - Publisher: None
+        - Landing Pages: None
+        - Themes: None
+        - Keywords: None
+        - Contact Point: None
+        - Identifier: Net annual change in forest carbon
+        - Comment: Net annual change in forest carbon sequesteration
+        - Description: Forest carbon sequestration is the process of increasing the carbon content of the forest through processes that remove carbon dioxide from the atmosphere (i.e., photosynthesis). Once sequestered the carbon is stored in the forest within living biomass, soil and litter and contributes to the forest carbon stock. The forest carbon sink describes the natural reservoir that accumulates and stores sequestered carbon. The forest carbon sink is dynamic and can gain (e.g., sequestration by photosynthesis) and lose (e.g., emission by forest fires) carbon. The forest carbon sink is quantified as the net annual accumulation of carbon (carbon sequestration) by living biomass, soils and litter in forests.
+        
+
+- The data cube has the following data structure definition:
+        - Dataset Label: Net annual change in forest carbon
+        - Number of Components: 5
+        - Components:
+                                                      Property  Property Label Property Type Column Title  Required
+         net-annual-change-in-forest-carbon.csv#dimension/year            Year     Dimension         Year      True
+    net-annual-change-in-forest-carbon.csv#dimension/geography       Geography     Dimension    Geography      True
+                  http://purl.org/linked-data/cube#measureType                     Dimension                   True
+   http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                     Attribute                   True
+net-annual-change-in-forest-carbon.csv#measure/co_2-equivalent CO_2 equivalent       Measure  Observation      True
+        - Columns where suppress output is true: 
+		-- Uri Identifier
+
+- The data cube has the following code list information:
+        - Number of Code Lists: 2
+        - Code Lists:
+              Code List Code List Label Columns Used In
+geography.csv#code-list       Geography       Geography
+     year.csv#code-list            Year            Year
+
+- The data cube has the following dataset information:
+        - Number of Observations: 305
+        - Number of Duplicates: 0
+        - First 10 Observations: 
+ Year Geography  Observation
+ 1990   england          6.1
+ 1991   england          6.5
+ 1992   england          6.7
+ 1993   england          7.0
+ 1994   england          7.0
+ 1995   england          7.0
+ 1996   england          7.2
+ 1997   england          7.3
+ 1998   england          7.6
+ 1999   england          7.7
+        - Last 10 Observations: 
+ Year      Geography  Observation
+ 2041 united-kingdom          9.6
+ 2042 united-kingdom          9.6
+ 2043 united-kingdom          9.6
+ 2044 united-kingdom          9.6
+ 2045 united-kingdom          9.8
+ 2046 united-kingdom          9.9
+ 2047 united-kingdom         10.1
+ 2048 united-kingdom         10.3
+ 2049 united-kingdom         10.5
+ 2050 united-kingdom         10.6
+        
+
+- The data cube has the following value counts:
+        - Value counts broken-down by measure and unit (of measure):
+        Measure           Unit  Count
+CO_2 equivalent million tonnes    305
+        

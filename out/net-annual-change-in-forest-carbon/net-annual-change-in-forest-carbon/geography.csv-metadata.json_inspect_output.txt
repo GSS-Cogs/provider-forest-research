@@ -1,0 +1,43 @@
+
+- This file is a code list.
+
+- The code list has the following catalog metadata:
+        - Title: Geography
+        - Label: Geography
+        - Issued: 2022-10-04T15:06:58.960829
+        - Modified: 2022-10-04T15:06:58.960829
+        - License: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+        - Creator: None
+        - Publisher: None
+        - Landing Pages: None
+        - Themes: None
+        - Keywords: None
+        - Contact Point: None
+        - Identifier: Geography
+        - Comment: None
+        - Description: None
+        
+
+- The code list has the following dataset information:
+        - Number of Concepts: 5
+        - Number of Duplicates: 0
+        - Concepts: 
+  Uri Identifier            Label         Notation Parent Uri Identifier  Sort Priority  Description
+  united-kingdom   United Kingdom   United Kingdom                   NaN              0          NaN
+         england          England          England        united-kingdom              0          NaN
+northern-ireland Northern Ireland Northern Ireland        united-kingdom              1          NaN
+        scotland         Scotland         Scotland        united-kingdom              2          NaN
+           wales            Wales            Wales        united-kingdom              3          NaN
+        
+
+- The code list has the following concepts information:
+        - Concepts hierarchy depth: 2
+        - Concepts hierarchy:
+root
+└── United Kingdom
+    ├── England
+    ├── Northern Ireland
+    ├── Scotland
+    └── Wales
+
+        
