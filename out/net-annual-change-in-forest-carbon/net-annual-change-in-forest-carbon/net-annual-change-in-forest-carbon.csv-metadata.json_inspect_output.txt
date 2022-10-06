@@ -23,12 +23,12 @@
         - Dataset Label: Net annual change in forest carbon
         - Number of Components: 5
         - Components:
-                                                      Property  Property Label Property Type Column Title  Required
-         net-annual-change-in-forest-carbon.csv#dimension/year            Year     Dimension         Year      True
-    net-annual-change-in-forest-carbon.csv#dimension/geography       Geography     Dimension    Geography      True
-                  http://purl.org/linked-data/cube#measureType                     Dimension                   True
-   http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                     Attribute                   True
-net-annual-change-in-forest-carbon.csv#measure/co_2-equivalent CO_2 equivalent       Measure  Observation      True
+                                                     Property Property Label Property Type Column Title  Required
+        net-annual-change-in-forest-carbon.csv#dimension/year           Year     Dimension         Year      True
+   net-annual-change-in-forest-carbon.csv#dimension/geography      Geography     Dimension    Geography      True
+                 http://purl.org/linked-data/cube#measureType                    Dimension                   True
+  http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                    Attribute                   True
+net-annual-change-in-forest-carbon.csv#measure/co2-equivalent CO2 equivalent       Measure  Observation      True
         - Columns where suppress output is true: 
 		-- Uri Identifier
 
@@ -70,6 +70,6 @@ geography.csv#code-list       Geography       Geography
 
 - The data cube has the following value counts:
         - Value counts broken-down by measure and unit (of measure):
-        Measure           Unit  Count
-CO_2 equivalent million tonnes    305
+       Measure           Unit  Count
+CO2 equivalent million tonnes    305
         
