@@ -4,6 +4,8 @@
     "summary": "Net annual change in forest carbon sequesteration",
     "description": "Forest carbon sequestration is the process of increasing the carbon content of the forest through processes that remove carbon dioxide from the atmosphere (i.e., photosynthesis). Once sequestered the carbon is stored in the forest within living biomass, soil and litter and contributes to the forest carbon stock. The forest carbon sink describes the natural reservoir that accumulates and stores sequestered carbon. The forest carbon sink is dynamic and can gain (e.g., sequestration by photosynthesis) and lose (e.g., emission by forest fires) carbon. The forest carbon sink is quantified as the net annual accumulation of carbon (carbon sequestration) by living biomass, soils and litter in forests.",
     "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "publisher": "https://www.gov.uk/government/organisations/forest-research",
+    "themes": "https://uksa.statisticsauthority.gov.uk/themes/agriculture-energy-environment",
     "dataset_issued": "2022-09-29",
     "columns": {
         "Year": {
