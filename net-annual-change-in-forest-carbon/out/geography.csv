@@ -1,6 +1,0 @@
-Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description
-united-kingdom,United Kingdom,United Kingdom,,0,
-england,England,England,united-kingdom,0,
-northern-ireland,Northern Ireland,Northern Ireland,united-kingdom,1,
-scotland,Scotland,Scotland,united-kingdom,2,
-wales,Wales,Wales,united-kingdom,3,
