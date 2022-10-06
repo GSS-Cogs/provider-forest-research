@@ -57,7 +57,7 @@
                 "scaling_factor": 1000000
             },
             "measure": {
-                "label": "CO_2 equivalent",
+                "label": "CO2 equivalent",
                 "from_existing": "http://gss-data.org.uk/def/measure/count"
             }
         }
