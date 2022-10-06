@@ -25,6 +25,7 @@ def fetch(input: str, output: Path()) -> None:
     )
     df.to_csv(output, index=False)
     return
+    
 
 
 if __name__ == "__main__":
