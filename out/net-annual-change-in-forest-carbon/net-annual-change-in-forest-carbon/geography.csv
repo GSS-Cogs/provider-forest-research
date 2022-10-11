@@ -1,6 +1,6 @@
-Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description
-united-kingdom,United Kingdom,United Kingdom,,0,
-england,England,England,united-kingdom,0,
-northern-ireland,Northern Ireland,Northern Ireland,united-kingdom,1,
-scotland,Scotland,Scotland,united-kingdom,2,
-wales,Wales,Wales,united-kingdom,3,
+Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description,Original Concept URI
+united-kingdom,United Kingdom,United Kingdom,,0,,http://statistics.data.gov.uk/id/statistical-geography/K02000001
+england,England,England,united-kingdom,0,,http://statistics.data.gov.uk/id/statistical-geography/E92000001
+northern-ireland,Northern Ireland,Northern Ireland,united-kingdom,1,,http://statistics.data.gov.uk/id/statistical-geography/N92000002
+scotland,Scotland,Scotland,united-kingdom,2,,http://statistics.data.gov.uk/id/statistical-geography/S92000003
+wales,Wales,Wales,united-kingdom,3,,http://statistics.data.gov.uk/id/statistical-geography/W92000004

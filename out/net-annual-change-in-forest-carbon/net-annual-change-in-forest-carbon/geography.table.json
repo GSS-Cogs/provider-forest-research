@@ -39,6 +39,13 @@
             "propertyUrl": "rdfs:comment"
         },
         {
+            "titles": "Original Concept URI",
+            "name": "uri",
+            "required": true,
+            "propertyUrl": "owl:sameAs",
+            "valueUrl": "{+uri}"
+        },
+        {
             "virtual": true,
             "name": "virt_inScheme",
             "required": true,
