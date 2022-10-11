@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h3>CSV-Ws generated are as below. The latest commit id is 6be99acdb6974b763f5ab3234c855080cb4e1a0d.</h3>
+    <div id="files-container"></div>
+    <script type="text/javascript">
+      var html_str = "<ul>";
+      var files = ",./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/geography.csv-metadata.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/geography.table.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/year.csv,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/validation-errors.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon.csv,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon.csv-metadata.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon.csv-metadata.json_inspect_output.txt,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/year.table.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/year.csv-metadata.json_inspect_output.txt,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/geography.csv-metadata.json_inspect_output.txt,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/year.csv-metadata.json,./out/net-annual-change-in-forest-carbon/net-annual-change-in-forest-carbon/geography.csv".split(',');
+      files.shift()
+      files.sort()
+      files.forEach(function(file) {
+        file = file.replace("./","")
+        link = "https://GSS-Cogs.github.io/provider-forest-research/"+file
+        html_str += "<li>"+"<a href='"+ link + "'>"+file+"</a></li>";
+      });
+      html_str += "</ul>";
+      document.getElementById("files-container").innerHTML = html_str;
+    </script>
+  </body>
+</html>
