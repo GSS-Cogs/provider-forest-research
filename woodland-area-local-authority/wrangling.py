@@ -9,7 +9,7 @@ from pathlib import Path
 @click.option("--output", default=Path("./output.csv"), type=click.Path(path_type=Path))
 def wrangle(input: Path(), output: Path()) -> None:
 
-    df = pd.read_csv("UK-LA-woodland-cover.csv")
+    df = pd.read_csv(input)
     df.drop(columns="WOODLAND_COVER", inplace=True)
 
     df.rename(
@@ -25,7 +25,7 @@ def wrangle(input: Path(), output: Path()) -> None:
     id_vars = ["Local authority code", "Local authority"]
     value_vars = ["Standard Area", "Woodland Area", "Woodland area as percentage of standard area"]
 
-    df = pd.melt(df, id_vars, value_vars, var_name="Measure", value_name="Value")
+    df = pd.melt(df, id_vars, value_vars, var_name="Measure", value_name="Observation")
     
     df['Year'] = 2020
     df['Unit'] = df.apply(lambda x: 'Hectares' if x['Measure'] == "Standard Area" 
@@ -34,9 +34,9 @@ def wrangle(input: Path(), output: Path()) -> None:
                       else '',
                       axis=1)
 
-    df["Value"] = df["Value"].astype(float).round(2)
+    df["Observation"] = df["Observation"].astype(float).round(2)
 
-    df = df[['Year', 'Local authority code', 'Local authority', 'Measure', 'Unit', 'Value']]
+    df = df[['Year', 'Local authority code', 'Local authority', 'Measure', 'Unit', 'Observation']]
     df.to_csv(output, index=False)
     return
 
