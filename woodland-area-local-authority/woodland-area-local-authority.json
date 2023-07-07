@@ -1,0 +1,68 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+    "title": "Wooland Area Local Authority",
+    "creator": "https://www.gov.uk/government/organisations/forest-research",
+    "summary": "Wooland area by local authority for 2020",
+    "description": "Woodland area by UK local authority data for 2020",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "keywords": [
+        "woodland",
+        "woodland-area",
+        "local-authority",
+        "local-authority-code",
+        "woodland-area-percentage"
+    ],
+    "publisher": "https://www.gov.uk/government/organisations/forest-research",
+    "dataset_issued": "2023-06-20",
+    "themes": "https://uksa.statisticsauthority.gov.uk/themes/agriculture-energy-environment",
+    "columns": {
+        "Year": {
+            "from_template": "year"
+        },
+        "Local authority code": {
+            "type": "dimension",
+            "label": "Statistical Geography",
+            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
+            "code_list": "./codelists/local_authority_codelist.json"
+        },
+        "Local authority": false,
+        "Measure":{
+            "type": "measures",
+            "values" : [
+                {
+                   "label": "Standard Area", 
+                   "from_existing": "https://purl.org/csv-cubed/resources/measures#land-area"
+                },
+                {
+                    "label": "Woodland Area",
+                    "from_existing": "https://purl.org/csv-cubed/resources/measures#land-area"
+                },
+                {
+                    "label": "Woodland area as percentage of standard area",
+                    "from_existing": "https://purl.org/csv-cubed/resources/measures#portion"
+                }
+            ]
+        },
+        "Unit": {
+            "type": "units",
+            "values": [
+                {
+                    "label": "Hectares",
+                    "definition_uri": "http://gss-data.org.uk/def/climate-change/concept/measurement-unit/hectares"
+                },     
+                {
+                    "label": "Hectares",
+                    "definition_uri": "http://gss-data.org.uk/def/climate-change/concept/measurement-unit/hectares"
+                },
+                {
+                    "label": "Percent",
+                    "from_existing": "http://qudt.org/vocab/unit/PERCENT"
+                }
+            ]
+        },
+        "Value": {
+            "type": "observations",
+            "data_type": "decimal"
+        }
+    }
+}
