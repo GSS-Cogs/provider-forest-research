@@ -9,7 +9,7 @@ from pathlib import Path
 @click.option("--output", default=Path("./output.csv"), type=click.Path(path_type=Path))
 def wrangle(input: Path(), output: Path()) -> None:
 
-    df = pd.read_csv(input)
+    df = pd.read_csv('raw_data.csv')
     df.drop(columns="WOODLAND_COVER", inplace=True)
 
     df.rename(
@@ -36,7 +36,7 @@ def wrangle(input: Path(), output: Path()) -> None:
 
     df["Observation"] = df["Observation"].astype(float).round(2)
 
-    df = df[['Year', 'Local authority code', 'Local authority', 'Measure', 'Unit', 'Observation']]
+    df = df[['Year', 'Local authority code', 'Measure', 'Unit', 'Observation']]
     df.to_csv(output, index=False)
     return
 
