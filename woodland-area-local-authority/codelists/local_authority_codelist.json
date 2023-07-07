@@ -1,8 +1,8 @@
 {
     "$schema": "https://purl.org/csv-cubed/code-list-config/v1",
-    "title": "Local authority codelist for Wooland Area Local Authority",
+    "title": "Local authority codelist for Woodland Area Local Authority",
     "summary": "Local authority codelist",
-    "description": "Non-hierarchical local authority codelist for Wooland Area Local Authority",
+    "description": "Non-hierarchical local authority codelist for Woodland Area Local Authority",
     "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
     "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
     "license": "https://creativecommons.org/licenses/by/4.0/",
