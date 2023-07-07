@@ -1,0 +1,81 @@
+
+- This file is a data cube.
+
+
+        - The data cube has the following catalog metadata:
+          - Title: Woodland Area Local Authority
+          - Label: Woodland Area Local Authority
+          - Issued: 2023-06-20T00:00:00
+          - Modified: 2023-06-20T00:00:00
+          - License: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+          - Creator: https://www.gov.uk/government/organisations/forest-research
+          - Publisher: https://www.gov.uk/government/organisations/forest-research
+          - Landing Pages: None
+          - Themes: 
+		-- https://uksa.statisticsauthority.gov.uk/themes/agriculture-energy-environment
+          - Keywords: 
+		-- local-authority-code
+		-- woodland-area-percentage
+		-- local-authority
+		-- woodland
+		-- woodland-area
+          - Contact Point: None
+          - Identifier: Woodland Area Local Authority
+          - Comment: Woodland area by local authority for 2020
+          - Description: Woodland area by UK local authority data for 2020
+        
+
+ - The data cube has the following column component information: 
+    - Dataset Label: Woodland Area Local Authority
+    - Columns: 
+                   Title         Type  Required                                                      Property URL Observations Column Titles
+                    Year    Dimension      True                  woodland-area-local-authority.csv#dimension/year                           
+    Local authority code    Dimension      True woodland-area-local-authority.csv#dimension/statistical-geography                           
+                 Measure     Measures      True                      http://purl.org/linked-data/cube#measureType                Observation
+                    Unit        Units      True       http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                           
+             Observation Observations      True              woodland-area-local-authority.csv#measure/{+measure}                           
+    - Columns where suppress output is true: None
+
+- The data cube has the following code list information:
+        - Number of Code Lists: 2
+        - Code Lists:
+                                                               Code List                                            Code List Label      Columns Used In
+local-authority-codelist-for-woodland-area-local-authority.csv#code-list Local authority codelist for Woodland Area Local Authority Local authority code
+                                                      year.csv#code-list                                                       Year                 Year
+
+- The data cube has the following dataset information:
+        - Number of Observations: 1137
+        - Number of Duplicates: 0
+        - First 10 Observations: 
+ Year Local authority code       Measure     Unit  Observation
+ 2020            e06000001 standard-area hectares      9371.25
+ 2020            e06000002 standard-area hectares      5388.16
+ 2020            e06000003 standard-area hectares     24506.98
+ 2020            e06000004 standard-area hectares     20493.31
+ 2020            e06000005 standard-area hectares     19747.58
+ 2020            e06000006 standard-area hectares      7908.39
+ 2020            e06000007 standard-area hectares     18062.79
+ 2020            e06000008 standard-area hectares     13702.21
+ 2020            e06000009 standard-area hectares      3487.09
+ 2020            e06000010 standard-area hectares      7158.37
+        - Last 10 Observations: 
+ Year Local authority code                                      Measure    Unit  Observation
+ 2020            w06000014 woodland-area-as-percentage-of-standard-area percent         8.43
+ 2020            w06000015 woodland-area-as-percentage-of-standard-area percent        11.23
+ 2020            w06000016 woodland-area-as-percentage-of-standard-area percent        27.36
+ 2020            w06000018 woodland-area-as-percentage-of-standard-area percent        20.42
+ 2020            w06000019 woodland-area-as-percentage-of-standard-area percent        15.04
+ 2020            w06000020 woodland-area-as-percentage-of-standard-area percent        16.09
+ 2020            w06000021 woodland-area-as-percentage-of-standard-area percent        16.41
+ 2020            w06000022 woodland-area-as-percentage-of-standard-area percent        10.78
+ 2020            w06000023 woodland-area-as-percentage-of-standard-area percent        15.10
+ 2020            w06000024 woodland-area-as-percentage-of-standard-area percent        16.92
+        
+
+- The data cube has the following value counts:
+        - Value counts broken-down by measure and unit (of measure):
+                                     Measure     Unit  Count
+                               standard-area hectares    379
+                               woodland-area hectares    379
+woodland-area-as-percentage-of-standard-area  percent    379
+        
