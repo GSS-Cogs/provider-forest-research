@@ -1,8 +1,8 @@
 {
     "$schema": "https://purl.org/csv-cubed/qube-config/v1",
-    "title": "Wooland Area Local Authority",
+    "title": "Woodland Area Local Authority",
     "creator": "https://www.gov.uk/government/organisations/forest-research",
-    "summary": "Wooland area by local authority for 2020",
+    "summary": "Woodland area by local authority for 2020",
     "description": "Woodland area by UK local authority data for 2020",
     "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "keywords": [
