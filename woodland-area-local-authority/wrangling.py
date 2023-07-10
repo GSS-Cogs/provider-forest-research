@@ -17,20 +17,20 @@ def wrangle(input: Path(), output: Path()) -> None:
              "LAD20NM": "Local authority",
              "WOODLAND_AREA": "Woodland Area", 
              "AREALHECT": "Standard Area",
-             "Percentage of area": "Woodland area as percentage of standard area"
+             "Percentage of area": "Woodland area as a portion of standard area"
              },
     inplace=True,
     )
 
     id_vars = ["Local authority code", "Local authority"]
-    value_vars = ["Standard Area", "Woodland Area", "Woodland area as percentage of standard area"]
+    value_vars = ["Standard Area", "Woodland Area", "Woodland area as a portion of standard area"]
 
     df = pd.melt(df, id_vars, value_vars, var_name="Measure", value_name="Observation")
     
     df['Year'] = 2020
     df['Unit'] = df.apply(lambda x: 'Hectares' if x['Measure'] == "Standard Area" 
                       else 'Hectares' if x['Measure'] == 'Woodland Area' 
-                      else 'Percent' if x['Measure'] == 'Woodland area as percentage of standard area'
+                      else 'Percent' if x['Measure'] == 'Woodland area as a portion of standard area'
                       else '',
                       axis=1)
 
