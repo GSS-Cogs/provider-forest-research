@@ -757,382 +757,382 @@ Year,Local authority code,Measure,Unit,Observation
 2020,W06000022,Woodland Area,Hectares,2051.93
 2020,W06000023,Woodland Area,Hectares,78212.92
 2020,W06000024,Woodland Area,Hectares,1885.8
-2020,E06000001,Woodland area as percentage of standard area,Percent,4.67
-2020,E06000002,Woodland area as percentage of standard area,Percent,5.42
-2020,E06000003,Woodland area as percentage of standard area,Percent,12.19
-2020,E06000004,Woodland area as percentage of standard area,Percent,6.39
-2020,E06000005,Woodland area as percentage of standard area,Percent,4.05
-2020,E06000006,Woodland area as percentage of standard area,Percent,6.91
-2020,E06000007,Woodland area as percentage of standard area,Percent,7.9
-2020,E06000008,Woodland area as percentage of standard area,Percent,9.76
-2020,E06000009,Woodland area as percentage of standard area,Percent,1.7
-2020,E06000010,Woodland area as percentage of standard area,Percent,1.78
-2020,E06000011,Woodland area as percentage of standard area,Percent,3.93
-2020,E06000012,Woodland area as percentage of standard area,Percent,3.56
-2020,E06000013,Woodland area as percentage of standard area,Percent,5.14
-2020,E06000014,Woodland area as percentage of standard area,Percent,4.89
-2020,E06000015,Woodland area as percentage of standard area,Percent,3.56
-2020,E06000016,Woodland area as percentage of standard area,Percent,3.37
-2020,E06000017,Woodland area as percentage of standard area,Percent,6.64
-2020,E06000018,Woodland area as percentage of standard area,Percent,5.48
-2020,E06000019,Woodland area as percentage of standard area,Percent,11.69
-2020,E06000020,Woodland area as percentage of standard area,Percent,9.26
-2020,E06000021,Woodland area as percentage of standard area,Percent,5.57
-2020,E06000022,Woodland area as percentage of standard area,Percent,8.35
-2020,E06000023,Woodland area as percentage of standard area,Percent,6.13
-2020,E06000024,Woodland area as percentage of standard area,Percent,10.77
-2020,E06000025,Woodland area as percentage of standard area,Percent,6.11
-2020,E06000026,Woodland area as percentage of standard area,Percent,10.7
-2020,E06000027,Woodland area as percentage of standard area,Percent,9.13
-2020,E06000030,Woodland area as percentage of standard area,Percent,6.53
-2020,E06000031,Woodland area as percentage of standard area,Percent,5.56
-2020,E06000032,Woodland area as percentage of standard area,Percent,2.95
-2020,E06000033,Woodland area as percentage of standard area,Percent,2.48
-2020,E06000034,Woodland area as percentage of standard area,Percent,4.91
-2020,E06000035,Woodland area as percentage of standard area,Percent,7.68
-2020,E06000036,Woodland area as percentage of standard area,Percent,33.21
-2020,E06000037,Woodland area as percentage of standard area,Percent,16.46
-2020,E06000038,Woodland area as percentage of standard area,Percent,5.02
-2020,E06000039,Woodland area as percentage of standard area,Percent,3.86
-2020,E06000040,Woodland area as percentage of standard area,Percent,15.75
-2020,E06000041,Woodland area as percentage of standard area,Percent,14.23
-2020,E06000042,Woodland area as percentage of standard area,Percent,7.54
-2020,E06000043,Woodland area as percentage of standard area,Percent,5.85
-2020,E06000044,Woodland area as percentage of standard area,Percent,1.97
-2020,E06000045,Woodland area as percentage of standard area,Percent,7.49
-2020,E06000046,Woodland area as percentage of standard area,Percent,13.67
-2020,E06000047,Woodland area as percentage of standard area,Percent,8.61
-2020,E06000049,Woodland area as percentage of standard area,Percent,6.49
-2020,E06000050,Woodland area as percentage of standard area,Percent,6.23
-2020,E06000051,Woodland area as percentage of standard area,Percent,9.37
-2020,E06000052,Woodland area as percentage of standard area,Percent,9.43
-2020,E06000053,Woodland area as percentage of standard area,Percent,3.31
-2020,E06000054,Woodland area as percentage of standard area,Percent,10.3
-2020,E06000055,Woodland area as percentage of standard area,Percent,6.38
-2020,E06000056,Woodland area as percentage of standard area,Percent,9.74
-2020,E06000057,Woodland area as percentage of standard area,Percent,17.67
-2020,E06000058,Woodland area as percentage of standard area,Percent,11.53
-2020,E06000059,Woodland area as percentage of standard area,Percent,12.17
-2020,E06000060,Woodland area as percentage of standard area,Percent,12.45
-2020,E07000008,Woodland area as percentage of standard area,Percent,4.5
-2020,E07000009,Woodland area as percentage of standard area,Percent,2.89
-2020,E07000010,Woodland area as percentage of standard area,Percent,0.53
-2020,E07000011,Woodland area as percentage of standard area,Percent,4.25
-2020,E07000012,Woodland area as percentage of standard area,Percent,4.47
-2020,E07000026,Woodland area as percentage of standard area,Percent,6.89
-2020,E07000027,Woodland area as percentage of standard area,Percent,3.22
-2020,E07000028,Woodland area as percentage of standard area,Percent,18.76
-2020,E07000029,Woodland area as percentage of standard area,Percent,10.49
-2020,E07000030,Woodland area as percentage of standard area,Percent,6.19
-2020,E07000031,Woodland area as percentage of standard area,Percent,13.57
-2020,E07000032,Woodland area as percentage of standard area,Percent,8.92
-2020,E07000033,Woodland area as percentage of standard area,Percent,10.37
-2020,E07000034,Woodland area as percentage of standard area,Percent,8.16
-2020,E07000035,Woodland area as percentage of standard area,Percent,9.51
-2020,E07000036,Woodland area as percentage of standard area,Percent,5.55
-2020,E07000037,Woodland area as percentage of standard area,Percent,8.27
-2020,E07000038,Woodland area as percentage of standard area,Percent,10.92
-2020,E07000039,Woodland area as percentage of standard area,Percent,9.38
-2020,E07000040,Woodland area as percentage of standard area,Percent,11.61
-2020,E07000041,Woodland area as percentage of standard area,Percent,8.17
-2020,E07000042,Woodland area as percentage of standard area,Percent,10.2
-2020,E07000043,Woodland area as percentage of standard area,Percent,10.46
-2020,E07000044,Woodland area as percentage of standard area,Percent,9.56
-2020,E07000045,Woodland area as percentage of standard area,Percent,19.63
-2020,E07000046,Woodland area as percentage of standard area,Percent,13.93
-2020,E07000047,Woodland area as percentage of standard area,Percent,10.84
-2020,E07000061,Woodland area as percentage of standard area,Percent,5.31
-2020,E07000062,Woodland area as percentage of standard area,Percent,12.87
-2020,E07000063,Woodland area as percentage of standard area,Percent,9.91
-2020,E07000064,Woodland area as percentage of standard area,Percent,21.52
-2020,E07000065,Woodland area as percentage of standard area,Percent,22.8
-2020,E07000066,Woodland area as percentage of standard area,Percent,7.98
-2020,E07000067,Woodland area as percentage of standard area,Percent,6.76
-2020,E07000068,Woodland area as percentage of standard area,Percent,11.04
-2020,E07000069,Woodland area as percentage of standard area,Percent,11.03
-2020,E07000070,Woodland area as percentage of standard area,Percent,7.16
-2020,E07000071,Woodland area as percentage of standard area,Percent,8.24
-2020,E07000072,Woodland area as percentage of standard area,Percent,10.71
-2020,E07000073,Woodland area as percentage of standard area,Percent,8.59
-2020,E07000074,Woodland area as percentage of standard area,Percent,3.94
-2020,E07000075,Woodland area as percentage of standard area,Percent,3.71
-2020,E07000076,Woodland area as percentage of standard area,Percent,4.39
-2020,E07000077,Woodland area as percentage of standard area,Percent,6.05
-2020,E07000078,Woodland area as percentage of standard area,Percent,5.32
-2020,E07000079,Woodland area as percentage of standard area,Percent,11.4
-2020,E07000080,Woodland area as percentage of standard area,Percent,25.95
-2020,E07000081,Woodland area as percentage of standard area,Percent,4.18
-2020,E07000082,Woodland area as percentage of standard area,Percent,11.88
-2020,E07000083,Woodland area as percentage of standard area,Percent,7.7
-2020,E07000084,Woodland area as percentage of standard area,Percent,16.77
-2020,E07000085,Woodland area as percentage of standard area,Percent,21.77
-2020,E07000086,Woodland area as percentage of standard area,Percent,12.07
-2020,E07000087,Woodland area as percentage of standard area,Percent,8.76
-2020,E07000088,Woodland area as percentage of standard area,Percent,6.53
-2020,E07000089,Woodland area as percentage of standard area,Percent,27.63
-2020,E07000090,Woodland area as percentage of standard area,Percent,8.47
-2020,E07000091,Woodland area as percentage of standard area,Percent,29.88
-2020,E07000092,Woodland area as percentage of standard area,Percent,20.64
-2020,E07000093,Woodland area as percentage of standard area,Percent,16.08
-2020,E07000094,Woodland area as percentage of standard area,Percent,14.58
-2020,E07000095,Woodland area as percentage of standard area,Percent,14.39
-2020,E07000096,Woodland area as percentage of standard area,Percent,12.28
-2020,E07000098,Woodland area as percentage of standard area,Percent,8.92
-2020,E07000099,Woodland area as percentage of standard area,Percent,7.18
-2020,E07000102,Woodland area as percentage of standard area,Percent,14.93
-2020,E07000103,Woodland area as percentage of standard area,Percent,9.72
-2020,E07000105,Woodland area as percentage of standard area,Percent,14.53
-2020,E07000106,Woodland area as percentage of standard area,Percent,18.46
-2020,E07000107,Woodland area as percentage of standard area,Percent,10.55
-2020,E07000108,Woodland area as percentage of standard area,Percent,6.84
-2020,E07000109,Woodland area as percentage of standard area,Percent,14.39
-2020,E07000110,Woodland area as percentage of standard area,Percent,12.01
-2020,E07000111,Woodland area as percentage of standard area,Percent,19.71
-2020,E07000112,Woodland area as percentage of standard area,Percent,6.32
-2020,E07000113,Woodland area as percentage of standard area,Percent,8.05
-2020,E07000114,Woodland area as percentage of standard area,Percent,1.48
-2020,E07000115,Woodland area as percentage of standard area,Percent,18.86
-2020,E07000116,Woodland area as percentage of standard area,Percent,22.19
-2020,E07000117,Woodland area as percentage of standard area,Percent,8.75
-2020,E07000118,Woodland area as percentage of standard area,Percent,8.54
-2020,E07000119,Woodland area as percentage of standard area,Percent,2.8
-2020,E07000120,Woodland area as percentage of standard area,Percent,8.58
-2020,E07000121,Woodland area as percentage of standard area,Percent,7.13
-2020,E07000122,Woodland area as percentage of standard area,Percent,4.05
-2020,E07000123,Woodland area as percentage of standard area,Percent,5.25
-2020,E07000124,Woodland area as percentage of standard area,Percent,9.56
-2020,E07000125,Woodland area as percentage of standard area,Percent,6.58
-2020,E07000126,Woodland area as percentage of standard area,Percent,5.78
-2020,E07000127,Woodland area as percentage of standard area,Percent,4.25
-2020,E07000128,Woodland area as percentage of standard area,Percent,4.23
-2020,E07000129,Woodland area as percentage of standard area,Percent,3.03
-2020,E07000130,Woodland area as percentage of standard area,Percent,8.12
-2020,E07000131,Woodland area as percentage of standard area,Percent,4.3
-2020,E07000132,Woodland area as percentage of standard area,Percent,6.19
-2020,E07000133,Woodland area as percentage of standard area,Percent,4.75
-2020,E07000134,Woodland area as percentage of standard area,Percent,12.5
-2020,E07000135,Woodland area as percentage of standard area,Percent,2.63
-2020,E07000136,Woodland area as percentage of standard area,Percent,0.54
-2020,E07000137,Woodland area as percentage of standard area,Percent,3.97
-2020,E07000138,Woodland area as percentage of standard area,Percent,6.81
-2020,E07000139,Woodland area as percentage of standard area,Percent,3.96
-2020,E07000140,Woodland area as percentage of standard area,Percent,0.4
-2020,E07000141,Woodland area as percentage of standard area,Percent,5.95
-2020,E07000142,Woodland area as percentage of standard area,Percent,6.64
-2020,E07000143,Woodland area as percentage of standard area,Percent,16.5
-2020,E07000144,Woodland area as percentage of standard area,Percent,11.76
-2020,E07000145,Woodland area as percentage of standard area,Percent,5.96
-2020,E07000146,Woodland area as percentage of standard area,Percent,7.01
-2020,E07000147,Woodland area as percentage of standard area,Percent,10.32
-2020,E07000148,Woodland area as percentage of standard area,Percent,7.88
-2020,E07000149,Woodland area as percentage of standard area,Percent,6.44
-2020,E07000150,Woodland area as percentage of standard area,Percent,14.49
-2020,E07000151,Woodland area as percentage of standard area,Percent,4.33
-2020,E07000152,Woodland area as percentage of standard area,Percent,10.71
-2020,E07000153,Woodland area as percentage of standard area,Percent,8.16
-2020,E07000154,Woodland area as percentage of standard area,Percent,5.66
-2020,E07000155,Woodland area as percentage of standard area,Percent,7.28
-2020,E07000156,Woodland area as percentage of standard area,Percent,4.96
-2020,E07000163,Woodland area as percentage of standard area,Percent,4.79
-2020,E07000164,Woodland area as percentage of standard area,Percent,7.35
-2020,E07000165,Woodland area as percentage of standard area,Percent,7.29
-2020,E07000166,Woodland area as percentage of standard area,Percent,5.32
-2020,E07000167,Woodland area as percentage of standard area,Percent,15.08
-2020,E07000168,Woodland area as percentage of standard area,Percent,14.35
-2020,E07000169,Woodland area as percentage of standard area,Percent,6.12
-2020,E07000170,Woodland area as percentage of standard area,Percent,14.81
-2020,E07000171,Woodland area as percentage of standard area,Percent,10.53
-2020,E07000172,Woodland area as percentage of standard area,Percent,7.53
-2020,E07000173,Woodland area as percentage of standard area,Percent,14.65
-2020,E07000174,Woodland area as percentage of standard area,Percent,13.47
-2020,E07000175,Woodland area as percentage of standard area,Percent,11.06
-2020,E07000176,Woodland area as percentage of standard area,Percent,4.92
-2020,E07000177,Woodland area as percentage of standard area,Percent,5.45
-2020,E07000178,Woodland area as percentage of standard area,Percent,5.72
-2020,E07000179,Woodland area as percentage of standard area,Percent,13.84
-2020,E07000180,Woodland area as percentage of standard area,Percent,8.17
-2020,E07000181,Woodland area as percentage of standard area,Percent,9.27
-2020,E07000187,Woodland area as percentage of standard area,Percent,7.54
-2020,E07000188,Woodland area as percentage of standard area,Percent,5.63
-2020,E07000189,Woodland area as percentage of standard area,Percent,5.65
-2020,E07000192,Woodland area as percentage of standard area,Percent,32.61
-2020,E07000193,Woodland area as percentage of standard area,Percent,8.32
-2020,E07000194,Woodland area as percentage of standard area,Percent,6.14
-2020,E07000195,Woodland area as percentage of standard area,Percent,11.15
-2020,E07000196,Woodland area as percentage of standard area,Percent,10.91
-2020,E07000197,Woodland area as percentage of standard area,Percent,9.05
-2020,E07000198,Woodland area as percentage of standard area,Percent,8.42
-2020,E07000199,Woodland area as percentage of standard area,Percent,3.32
-2020,E07000200,Woodland area as percentage of standard area,Percent,7.59
-2020,E07000202,Woodland area as percentage of standard area,Percent,4.37
-2020,E07000203,Woodland area as percentage of standard area,Percent,4.32
-2020,E07000207,Woodland area as percentage of standard area,Percent,17.95
-2020,E07000208,Woodland area as percentage of standard area,Percent,13.55
-2020,E07000209,Woodland area as percentage of standard area,Percent,29.09
-2020,E07000210,Woodland area as percentage of standard area,Percent,29.01
-2020,E07000211,Woodland area as percentage of standard area,Percent,17.26
-2020,E07000212,Woodland area as percentage of standard area,Percent,23.27
-2020,E07000213,Woodland area as percentage of standard area,Percent,3.61
-2020,E07000214,Woodland area as percentage of standard area,Percent,31.36
-2020,E07000215,Woodland area as percentage of standard area,Percent,17.8
-2020,E07000216,Woodland area as percentage of standard area,Percent,33.85
-2020,E07000217,Woodland area as percentage of standard area,Percent,21.97
-2020,E07000218,Woodland area as percentage of standard area,Percent,8.0
-2020,E07000219,Woodland area as percentage of standard area,Percent,5.48
-2020,E07000220,Woodland area as percentage of standard area,Percent,4.56
-2020,E07000221,Woodland area as percentage of standard area,Percent,7.4
-2020,E07000222,Woodland area as percentage of standard area,Percent,7.44
-2020,E07000223,Woodland area as percentage of standard area,Percent,3.45
-2020,E07000224,Woodland area as percentage of standard area,Percent,15.74
-2020,E07000225,Woodland area as percentage of standard area,Percent,26.58
-2020,E07000226,Woodland area as percentage of standard area,Percent,12.84
-2020,E07000227,Woodland area as percentage of standard area,Percent,16.69
-2020,E07000228,Woodland area as percentage of standard area,Percent,25.32
-2020,E07000229,Woodland area as percentage of standard area,Percent,6.02
-2020,E07000234,Woodland area as percentage of standard area,Percent,10.31
-2020,E07000235,Woodland area as percentage of standard area,Percent,10.75
-2020,E07000236,Woodland area as percentage of standard area,Percent,10.87
-2020,E07000237,Woodland area as percentage of standard area,Percent,4.44
-2020,E07000238,Woodland area as percentage of standard area,Percent,7.11
-2020,E07000239,Woodland area as percentage of standard area,Percent,18.04
-2020,E07000240,Woodland area as percentage of standard area,Percent,12.09
-2020,E07000241,Woodland area as percentage of standard area,Percent,18.58
-2020,E07000242,Woodland area as percentage of standard area,Percent,10.05
-2020,E07000243,Woodland area as percentage of standard area,Percent,6.39
-2020,E07000244,Woodland area as percentage of standard area,Percent,10.16
-2020,E07000245,Woodland area as percentage of standard area,Percent,14.43
-2020,E07000246,Woodland area as percentage of standard area,Percent,12.25
-2020,E08000001,Woodland area as percentage of standard area,Percent,9.65
-2020,E08000002,Woodland area as percentage of standard area,Percent,8.94
-2020,E08000003,Woodland area as percentage of standard area,Percent,7.45
-2020,E08000004,Woodland area as percentage of standard area,Percent,5.68
-2020,E08000005,Woodland area as percentage of standard area,Percent,5.19
-2020,E08000006,Woodland area as percentage of standard area,Percent,9.37
-2020,E08000007,Woodland area as percentage of standard area,Percent,9.59
-2020,E08000008,Woodland area as percentage of standard area,Percent,8.85
-2020,E08000009,Woodland area as percentage of standard area,Percent,5.25
-2020,E08000010,Woodland area as percentage of standard area,Percent,9.89
-2020,E08000011,Woodland area as percentage of standard area,Percent,10.25
-2020,E08000012,Woodland area as percentage of standard area,Percent,4.73
-2020,E08000013,Woodland area as percentage of standard area,Percent,9.36
-2020,E08000014,Woodland area as percentage of standard area,Percent,5.59
-2020,E08000015,Woodland area as percentage of standard area,Percent,6.2
-2020,E08000016,Woodland area as percentage of standard area,Percent,11.31
-2020,E08000017,Woodland area as percentage of standard area,Percent,8.85
-2020,E08000018,Woodland area as percentage of standard area,Percent,10.26
-2020,E08000019,Woodland area as percentage of standard area,Percent,13.24
-2020,E08000021,Woodland area as percentage of standard area,Percent,5.81
-2020,E08000022,Woodland area as percentage of standard area,Percent,3.25
-2020,E08000023,Woodland area as percentage of standard area,Percent,3.4
-2020,E08000024,Woodland area as percentage of standard area,Percent,7.68
-2020,E08000025,Woodland area as percentage of standard area,Percent,6.05
-2020,E08000026,Woodland area as percentage of standard area,Percent,5.41
-2020,E08000027,Woodland area as percentage of standard area,Percent,6.93
-2020,E08000028,Woodland area as percentage of standard area,Percent,5.85
-2020,E08000029,Woodland area as percentage of standard area,Percent,6.79
-2020,E08000030,Woodland area as percentage of standard area,Percent,6.75
-2020,E08000031,Woodland area as percentage of standard area,Percent,3.89
-2020,E08000032,Woodland area as percentage of standard area,Percent,6.32
-2020,E08000033,Woodland area as percentage of standard area,Percent,7.22
-2020,E08000034,Woodland area as percentage of standard area,Percent,8.75
-2020,E08000035,Woodland area as percentage of standard area,Percent,9.83
-2020,E08000036,Woodland area as percentage of standard area,Percent,7.53
-2020,E08000037,Woodland area as percentage of standard area,Percent,15.34
-2020,E09000001,Woodland area as percentage of standard area,Percent,0.87
-2020,E09000002,Woodland area as percentage of standard area,Percent,1.25
-2020,E09000003,Woodland area as percentage of standard area,Percent,9.55
-2020,E09000004,Woodland area as percentage of standard area,Percent,7.74
-2020,E09000005,Woodland area as percentage of standard area,Percent,3.32
-2020,E09000006,Woodland area as percentage of standard area,Percent,14.79
-2020,E09000007,Woodland area as percentage of standard area,Percent,13.24
-2020,E09000008,Woodland area as percentage of standard area,Percent,12.9
-2020,E09000009,Woodland area as percentage of standard area,Percent,3.79
-2020,E09000010,Woodland area as percentage of standard area,Percent,7.97
-2020,E09000011,Woodland area as percentage of standard area,Percent,9.28
-2020,E09000012,Woodland area as percentage of standard area,Percent,4.29
-2020,E09000013,Woodland area as percentage of standard area,Percent,2.92
-2020,E09000014,Woodland area as percentage of standard area,Percent,8.85
-2020,E09000015,Woodland area as percentage of standard area,Percent,8.42
-2020,E09000016,Woodland area as percentage of standard area,Percent,8.58
-2020,E09000017,Woodland area as percentage of standard area,Percent,8.97
-2020,E09000018,Woodland area as percentage of standard area,Percent,5.74
-2020,E09000019,Woodland area as percentage of standard area,Percent,3.17
-2020,E09000020,Woodland area as percentage of standard area,Percent,5.19
-2020,E09000021,Woodland area as percentage of standard area,Percent,5.23
-2020,E09000022,Woodland area as percentage of standard area,Percent,2.54
-2020,E09000023,Woodland area as percentage of standard area,Percent,4.88
-2020,E09000024,Woodland area as percentage of standard area,Percent,8.83
-2020,E09000025,Woodland area as percentage of standard area,Percent,1.91
-2020,E09000026,Woodland area as percentage of standard area,Percent,6.51
-2020,E09000027,Woodland area as percentage of standard area,Percent,16.79
-2020,E09000028,Woodland area as percentage of standard area,Percent,5.97
-2020,E09000029,Woodland area as percentage of standard area,Percent,3.39
-2020,E09000030,Woodland area as percentage of standard area,Percent,4.04
-2020,E09000031,Woodland area as percentage of standard area,Percent,10.27
-2020,E09000032,Woodland area as percentage of standard area,Percent,8.22
-2020,E09000033,Woodland area as percentage of standard area,Percent,11.97
-2020,N09000001,Woodland area as percentage of standard area,Percent,4.25
-2020,N09000002,Woodland area as percentage of standard area,Percent,3.85
-2020,N09000003,Woodland area as percentage of standard area,Percent,5.66
-2020,N09000004,Woodland area as percentage of standard area,Percent,12.07
-2020,N09000005,Woodland area as percentage of standard area,Percent,9.61
-2020,N09000006,Woodland area as percentage of standard area,Percent,13.3
-2020,N09000007,Woodland area as percentage of standard area,Percent,3.56
-2020,N09000008,Woodland area as percentage of standard area,Percent,6.11
-2020,N09000009,Woodland area as percentage of standard area,Percent,6.68
-2020,N09000010,Woodland area as percentage of standard area,Percent,6.75
-2020,N09000011,Woodland area as percentage of standard area,Percent,4.5
-2020,S12000005,Woodland area as percentage of standard area,Percent,14.81
-2020,S12000006,Woodland area as percentage of standard area,Percent,28.46
-2020,S12000008,Woodland area as percentage of standard area,Percent,21.79
-2020,S12000010,Woodland area as percentage of standard area,Percent,9.87
-2020,S12000011,Woodland area as percentage of standard area,Percent,13.62
-2020,S12000013,Woodland area as percentage of standard area,Percent,1.11
-2020,S12000014,Woodland area as percentage of standard area,Percent,15.22
-2020,S12000017,Woodland area as percentage of standard area,Percent,16.55
-2020,S12000018,Woodland area as percentage of standard area,Percent,13.28
-2020,S12000019,Woodland area as percentage of standard area,Percent,13.35
-2020,S12000020,Woodland area as percentage of standard area,Percent,30.26
-2020,S12000021,Woodland area as percentage of standard area,Percent,17.23
-2020,S12000023,Woodland area as percentage of standard area,Percent,0.22
-2020,S12000026,Woodland area as percentage of standard area,Percent,21.18
-2020,S12000027,Woodland area as percentage of standard area,Percent,0.04
-2020,S12000028,Woodland area as percentage of standard area,Percent,29.95
-2020,S12000029,Woodland area as percentage of standard area,Percent,18.36
-2020,S12000030,Woodland area as percentage of standard area,Percent,26.28
-2020,S12000033,Woodland area as percentage of standard area,Percent,12.59
-2020,S12000034,Woodland area as percentage of standard area,Percent,17.84
-2020,S12000035,Woodland area as percentage of standard area,Percent,30.26
-2020,S12000036,Woodland area as percentage of standard area,Percent,10.63
-2020,S12000038,Woodland area as percentage of standard area,Percent,12.95
-2020,S12000039,Woodland area as percentage of standard area,Percent,23.71
-2020,S12000040,Woodland area as percentage of standard area,Percent,20.16
-2020,S12000041,Woodland area as percentage of standard area,Percent,10.5
-2020,S12000042,Woodland area as percentage of standard area,Percent,6.71
-2020,S12000045,Woodland area as percentage of standard area,Percent,17.0
-2020,S12000047,Woodland area as percentage of standard area,Percent,13.45
-2020,S12000048,Woodland area as percentage of standard area,Percent,18.7
-2020,S12000049,Woodland area as percentage of standard area,Percent,9.21
-2020,S12000050,Woodland area as percentage of standard area,Percent,21.7
-2020,W06000001,Woodland area as percentage of standard area,Percent,4.78
-2020,W06000002,Woodland area as percentage of standard area,Percent,15.53
-2020,W06000003,Woodland area as percentage of standard area,Percent,13.33
-2020,W06000004,Woodland area as percentage of standard area,Percent,15.71
-2020,W06000005,Woodland area as percentage of standard area,Percent,9.86
-2020,W06000006,Woodland area as percentage of standard area,Percent,9.56
-2020,W06000008,Woodland area as percentage of standard area,Percent,15.4
-2020,W06000009,Woodland area as percentage of standard area,Percent,9.59
-2020,W06000010,Woodland area as percentage of standard area,Percent,16.68
-2020,W06000011,Woodland area as percentage of standard area,Percent,11.59
-2020,W06000012,Woodland area as percentage of standard area,Percent,39.3
-2020,W06000013,Woodland area as percentage of standard area,Percent,16.53
-2020,W06000014,Woodland area as percentage of standard area,Percent,8.43
-2020,W06000015,Woodland area as percentage of standard area,Percent,11.23
-2020,W06000016,Woodland area as percentage of standard area,Percent,27.36
-2020,W06000018,Woodland area as percentage of standard area,Percent,20.42
-2020,W06000019,Woodland area as percentage of standard area,Percent,15.04
-2020,W06000020,Woodland area as percentage of standard area,Percent,16.09
-2020,W06000021,Woodland area as percentage of standard area,Percent,16.41
-2020,W06000022,Woodland area as percentage of standard area,Percent,10.78
-2020,W06000023,Woodland area as percentage of standard area,Percent,15.1
-2020,W06000024,Woodland area as percentage of standard area,Percent,16.92
+2020,E06000001,Woodland area as a portion of standard area,Percent,4.67
+2020,E06000002,Woodland area as a portion of standard area,Percent,5.42
+2020,E06000003,Woodland area as a portion of standard area,Percent,12.19
+2020,E06000004,Woodland area as a portion of standard area,Percent,6.39
+2020,E06000005,Woodland area as a portion of standard area,Percent,4.05
+2020,E06000006,Woodland area as a portion of standard area,Percent,6.91
+2020,E06000007,Woodland area as a portion of standard area,Percent,7.9
+2020,E06000008,Woodland area as a portion of standard area,Percent,9.76
+2020,E06000009,Woodland area as a portion of standard area,Percent,1.7
+2020,E06000010,Woodland area as a portion of standard area,Percent,1.78
+2020,E06000011,Woodland area as a portion of standard area,Percent,3.93
+2020,E06000012,Woodland area as a portion of standard area,Percent,3.56
+2020,E06000013,Woodland area as a portion of standard area,Percent,5.14
+2020,E06000014,Woodland area as a portion of standard area,Percent,4.89
+2020,E06000015,Woodland area as a portion of standard area,Percent,3.56
+2020,E06000016,Woodland area as a portion of standard area,Percent,3.37
+2020,E06000017,Woodland area as a portion of standard area,Percent,6.64
+2020,E06000018,Woodland area as a portion of standard area,Percent,5.48
+2020,E06000019,Woodland area as a portion of standard area,Percent,11.69
+2020,E06000020,Woodland area as a portion of standard area,Percent,9.26
+2020,E06000021,Woodland area as a portion of standard area,Percent,5.57
+2020,E06000022,Woodland area as a portion of standard area,Percent,8.35
+2020,E06000023,Woodland area as a portion of standard area,Percent,6.13
+2020,E06000024,Woodland area as a portion of standard area,Percent,10.77
+2020,E06000025,Woodland area as a portion of standard area,Percent,6.11
+2020,E06000026,Woodland area as a portion of standard area,Percent,10.7
+2020,E06000027,Woodland area as a portion of standard area,Percent,9.13
+2020,E06000030,Woodland area as a portion of standard area,Percent,6.53
+2020,E06000031,Woodland area as a portion of standard area,Percent,5.56
+2020,E06000032,Woodland area as a portion of standard area,Percent,2.95
+2020,E06000033,Woodland area as a portion of standard area,Percent,2.48
+2020,E06000034,Woodland area as a portion of standard area,Percent,4.91
+2020,E06000035,Woodland area as a portion of standard area,Percent,7.68
+2020,E06000036,Woodland area as a portion of standard area,Percent,33.21
+2020,E06000037,Woodland area as a portion of standard area,Percent,16.46
+2020,E06000038,Woodland area as a portion of standard area,Percent,5.02
+2020,E06000039,Woodland area as a portion of standard area,Percent,3.86
+2020,E06000040,Woodland area as a portion of standard area,Percent,15.75
+2020,E06000041,Woodland area as a portion of standard area,Percent,14.23
+2020,E06000042,Woodland area as a portion of standard area,Percent,7.54
+2020,E06000043,Woodland area as a portion of standard area,Percent,5.85
+2020,E06000044,Woodland area as a portion of standard area,Percent,1.97
+2020,E06000045,Woodland area as a portion of standard area,Percent,7.49
+2020,E06000046,Woodland area as a portion of standard area,Percent,13.67
+2020,E06000047,Woodland area as a portion of standard area,Percent,8.61
+2020,E06000049,Woodland area as a portion of standard area,Percent,6.49
+2020,E06000050,Woodland area as a portion of standard area,Percent,6.23
+2020,E06000051,Woodland area as a portion of standard area,Percent,9.37
+2020,E06000052,Woodland area as a portion of standard area,Percent,9.43
+2020,E06000053,Woodland area as a portion of standard area,Percent,3.31
+2020,E06000054,Woodland area as a portion of standard area,Percent,10.3
+2020,E06000055,Woodland area as a portion of standard area,Percent,6.38
+2020,E06000056,Woodland area as a portion of standard area,Percent,9.74
+2020,E06000057,Woodland area as a portion of standard area,Percent,17.67
+2020,E06000058,Woodland area as a portion of standard area,Percent,11.53
+2020,E06000059,Woodland area as a portion of standard area,Percent,12.17
+2020,E06000060,Woodland area as a portion of standard area,Percent,12.45
+2020,E07000008,Woodland area as a portion of standard area,Percent,4.5
+2020,E07000009,Woodland area as a portion of standard area,Percent,2.89
+2020,E07000010,Woodland area as a portion of standard area,Percent,0.53
+2020,E07000011,Woodland area as a portion of standard area,Percent,4.25
+2020,E07000012,Woodland area as a portion of standard area,Percent,4.47
+2020,E07000026,Woodland area as a portion of standard area,Percent,6.89
+2020,E07000027,Woodland area as a portion of standard area,Percent,3.22
+2020,E07000028,Woodland area as a portion of standard area,Percent,18.76
+2020,E07000029,Woodland area as a portion of standard area,Percent,10.49
+2020,E07000030,Woodland area as a portion of standard area,Percent,6.19
+2020,E07000031,Woodland area as a portion of standard area,Percent,13.57
+2020,E07000032,Woodland area as a portion of standard area,Percent,8.92
+2020,E07000033,Woodland area as a portion of standard area,Percent,10.37
+2020,E07000034,Woodland area as a portion of standard area,Percent,8.16
+2020,E07000035,Woodland area as a portion of standard area,Percent,9.51
+2020,E07000036,Woodland area as a portion of standard area,Percent,5.55
+2020,E07000037,Woodland area as a portion of standard area,Percent,8.27
+2020,E07000038,Woodland area as a portion of standard area,Percent,10.92
+2020,E07000039,Woodland area as a portion of standard area,Percent,9.38
+2020,E07000040,Woodland area as a portion of standard area,Percent,11.61
+2020,E07000041,Woodland area as a portion of standard area,Percent,8.17
+2020,E07000042,Woodland area as a portion of standard area,Percent,10.2
+2020,E07000043,Woodland area as a portion of standard area,Percent,10.46
+2020,E07000044,Woodland area as a portion of standard area,Percent,9.56
+2020,E07000045,Woodland area as a portion of standard area,Percent,19.63
+2020,E07000046,Woodland area as a portion of standard area,Percent,13.93
+2020,E07000047,Woodland area as a portion of standard area,Percent,10.84
+2020,E07000061,Woodland area as a portion of standard area,Percent,5.31
+2020,E07000062,Woodland area as a portion of standard area,Percent,12.87
+2020,E07000063,Woodland area as a portion of standard area,Percent,9.91
+2020,E07000064,Woodland area as a portion of standard area,Percent,21.52
+2020,E07000065,Woodland area as a portion of standard area,Percent,22.8
+2020,E07000066,Woodland area as a portion of standard area,Percent,7.98
+2020,E07000067,Woodland area as a portion of standard area,Percent,6.76
+2020,E07000068,Woodland area as a portion of standard area,Percent,11.04
+2020,E07000069,Woodland area as a portion of standard area,Percent,11.03
+2020,E07000070,Woodland area as a portion of standard area,Percent,7.16
+2020,E07000071,Woodland area as a portion of standard area,Percent,8.24
+2020,E07000072,Woodland area as a portion of standard area,Percent,10.71
+2020,E07000073,Woodland area as a portion of standard area,Percent,8.59
+2020,E07000074,Woodland area as a portion of standard area,Percent,3.94
+2020,E07000075,Woodland area as a portion of standard area,Percent,3.71
+2020,E07000076,Woodland area as a portion of standard area,Percent,4.39
+2020,E07000077,Woodland area as a portion of standard area,Percent,6.05
+2020,E07000078,Woodland area as a portion of standard area,Percent,5.32
+2020,E07000079,Woodland area as a portion of standard area,Percent,11.4
+2020,E07000080,Woodland area as a portion of standard area,Percent,25.95
+2020,E07000081,Woodland area as a portion of standard area,Percent,4.18
+2020,E07000082,Woodland area as a portion of standard area,Percent,11.88
+2020,E07000083,Woodland area as a portion of standard area,Percent,7.7
+2020,E07000084,Woodland area as a portion of standard area,Percent,16.77
+2020,E07000085,Woodland area as a portion of standard area,Percent,21.77
+2020,E07000086,Woodland area as a portion of standard area,Percent,12.07
+2020,E07000087,Woodland area as a portion of standard area,Percent,8.76
+2020,E07000088,Woodland area as a portion of standard area,Percent,6.53
+2020,E07000089,Woodland area as a portion of standard area,Percent,27.63
+2020,E07000090,Woodland area as a portion of standard area,Percent,8.47
+2020,E07000091,Woodland area as a portion of standard area,Percent,29.88
+2020,E07000092,Woodland area as a portion of standard area,Percent,20.64
+2020,E07000093,Woodland area as a portion of standard area,Percent,16.08
+2020,E07000094,Woodland area as a portion of standard area,Percent,14.58
+2020,E07000095,Woodland area as a portion of standard area,Percent,14.39
+2020,E07000096,Woodland area as a portion of standard area,Percent,12.28
+2020,E07000098,Woodland area as a portion of standard area,Percent,8.92
+2020,E07000099,Woodland area as a portion of standard area,Percent,7.18
+2020,E07000102,Woodland area as a portion of standard area,Percent,14.93
+2020,E07000103,Woodland area as a portion of standard area,Percent,9.72
+2020,E07000105,Woodland area as a portion of standard area,Percent,14.53
+2020,E07000106,Woodland area as a portion of standard area,Percent,18.46
+2020,E07000107,Woodland area as a portion of standard area,Percent,10.55
+2020,E07000108,Woodland area as a portion of standard area,Percent,6.84
+2020,E07000109,Woodland area as a portion of standard area,Percent,14.39
+2020,E07000110,Woodland area as a portion of standard area,Percent,12.01
+2020,E07000111,Woodland area as a portion of standard area,Percent,19.71
+2020,E07000112,Woodland area as a portion of standard area,Percent,6.32
+2020,E07000113,Woodland area as a portion of standard area,Percent,8.05
+2020,E07000114,Woodland area as a portion of standard area,Percent,1.48
+2020,E07000115,Woodland area as a portion of standard area,Percent,18.86
+2020,E07000116,Woodland area as a portion of standard area,Percent,22.19
+2020,E07000117,Woodland area as a portion of standard area,Percent,8.75
+2020,E07000118,Woodland area as a portion of standard area,Percent,8.54
+2020,E07000119,Woodland area as a portion of standard area,Percent,2.8
+2020,E07000120,Woodland area as a portion of standard area,Percent,8.58
+2020,E07000121,Woodland area as a portion of standard area,Percent,7.13
+2020,E07000122,Woodland area as a portion of standard area,Percent,4.05
+2020,E07000123,Woodland area as a portion of standard area,Percent,5.25
+2020,E07000124,Woodland area as a portion of standard area,Percent,9.56
+2020,E07000125,Woodland area as a portion of standard area,Percent,6.58
+2020,E07000126,Woodland area as a portion of standard area,Percent,5.78
+2020,E07000127,Woodland area as a portion of standard area,Percent,4.25
+2020,E07000128,Woodland area as a portion of standard area,Percent,4.23
+2020,E07000129,Woodland area as a portion of standard area,Percent,3.03
+2020,E07000130,Woodland area as a portion of standard area,Percent,8.12
+2020,E07000131,Woodland area as a portion of standard area,Percent,4.3
+2020,E07000132,Woodland area as a portion of standard area,Percent,6.19
+2020,E07000133,Woodland area as a portion of standard area,Percent,4.75
+2020,E07000134,Woodland area as a portion of standard area,Percent,12.5
+2020,E07000135,Woodland area as a portion of standard area,Percent,2.63
+2020,E07000136,Woodland area as a portion of standard area,Percent,0.54
+2020,E07000137,Woodland area as a portion of standard area,Percent,3.97
+2020,E07000138,Woodland area as a portion of standard area,Percent,6.81
+2020,E07000139,Woodland area as a portion of standard area,Percent,3.96
+2020,E07000140,Woodland area as a portion of standard area,Percent,0.4
+2020,E07000141,Woodland area as a portion of standard area,Percent,5.95
+2020,E07000142,Woodland area as a portion of standard area,Percent,6.64
+2020,E07000143,Woodland area as a portion of standard area,Percent,16.5
+2020,E07000144,Woodland area as a portion of standard area,Percent,11.76
+2020,E07000145,Woodland area as a portion of standard area,Percent,5.96
+2020,E07000146,Woodland area as a portion of standard area,Percent,7.01
+2020,E07000147,Woodland area as a portion of standard area,Percent,10.32
+2020,E07000148,Woodland area as a portion of standard area,Percent,7.88
+2020,E07000149,Woodland area as a portion of standard area,Percent,6.44
+2020,E07000150,Woodland area as a portion of standard area,Percent,14.49
+2020,E07000151,Woodland area as a portion of standard area,Percent,4.33
+2020,E07000152,Woodland area as a portion of standard area,Percent,10.71
+2020,E07000153,Woodland area as a portion of standard area,Percent,8.16
+2020,E07000154,Woodland area as a portion of standard area,Percent,5.66
+2020,E07000155,Woodland area as a portion of standard area,Percent,7.28
+2020,E07000156,Woodland area as a portion of standard area,Percent,4.96
+2020,E07000163,Woodland area as a portion of standard area,Percent,4.79
+2020,E07000164,Woodland area as a portion of standard area,Percent,7.35
+2020,E07000165,Woodland area as a portion of standard area,Percent,7.29
+2020,E07000166,Woodland area as a portion of standard area,Percent,5.32
+2020,E07000167,Woodland area as a portion of standard area,Percent,15.08
+2020,E07000168,Woodland area as a portion of standard area,Percent,14.35
+2020,E07000169,Woodland area as a portion of standard area,Percent,6.12
+2020,E07000170,Woodland area as a portion of standard area,Percent,14.81
+2020,E07000171,Woodland area as a portion of standard area,Percent,10.53
+2020,E07000172,Woodland area as a portion of standard area,Percent,7.53
+2020,E07000173,Woodland area as a portion of standard area,Percent,14.65
+2020,E07000174,Woodland area as a portion of standard area,Percent,13.47
+2020,E07000175,Woodland area as a portion of standard area,Percent,11.06
+2020,E07000176,Woodland area as a portion of standard area,Percent,4.92
+2020,E07000177,Woodland area as a portion of standard area,Percent,5.45
+2020,E07000178,Woodland area as a portion of standard area,Percent,5.72
+2020,E07000179,Woodland area as a portion of standard area,Percent,13.84
+2020,E07000180,Woodland area as a portion of standard area,Percent,8.17
+2020,E07000181,Woodland area as a portion of standard area,Percent,9.27
+2020,E07000187,Woodland area as a portion of standard area,Percent,7.54
+2020,E07000188,Woodland area as a portion of standard area,Percent,5.63
+2020,E07000189,Woodland area as a portion of standard area,Percent,5.65
+2020,E07000192,Woodland area as a portion of standard area,Percent,32.61
+2020,E07000193,Woodland area as a portion of standard area,Percent,8.32
+2020,E07000194,Woodland area as a portion of standard area,Percent,6.14
+2020,E07000195,Woodland area as a portion of standard area,Percent,11.15
+2020,E07000196,Woodland area as a portion of standard area,Percent,10.91
+2020,E07000197,Woodland area as a portion of standard area,Percent,9.05
+2020,E07000198,Woodland area as a portion of standard area,Percent,8.42
+2020,E07000199,Woodland area as a portion of standard area,Percent,3.32
+2020,E07000200,Woodland area as a portion of standard area,Percent,7.59
+2020,E07000202,Woodland area as a portion of standard area,Percent,4.37
+2020,E07000203,Woodland area as a portion of standard area,Percent,4.32
+2020,E07000207,Woodland area as a portion of standard area,Percent,17.95
+2020,E07000208,Woodland area as a portion of standard area,Percent,13.55
+2020,E07000209,Woodland area as a portion of standard area,Percent,29.09
+2020,E07000210,Woodland area as a portion of standard area,Percent,29.01
+2020,E07000211,Woodland area as a portion of standard area,Percent,17.26
+2020,E07000212,Woodland area as a portion of standard area,Percent,23.27
+2020,E07000213,Woodland area as a portion of standard area,Percent,3.61
+2020,E07000214,Woodland area as a portion of standard area,Percent,31.36
+2020,E07000215,Woodland area as a portion of standard area,Percent,17.8
+2020,E07000216,Woodland area as a portion of standard area,Percent,33.85
+2020,E07000217,Woodland area as a portion of standard area,Percent,21.97
+2020,E07000218,Woodland area as a portion of standard area,Percent,8.0
+2020,E07000219,Woodland area as a portion of standard area,Percent,5.48
+2020,E07000220,Woodland area as a portion of standard area,Percent,4.56
+2020,E07000221,Woodland area as a portion of standard area,Percent,7.4
+2020,E07000222,Woodland area as a portion of standard area,Percent,7.44
+2020,E07000223,Woodland area as a portion of standard area,Percent,3.45
+2020,E07000224,Woodland area as a portion of standard area,Percent,15.74
+2020,E07000225,Woodland area as a portion of standard area,Percent,26.58
+2020,E07000226,Woodland area as a portion of standard area,Percent,12.84
+2020,E07000227,Woodland area as a portion of standard area,Percent,16.69
+2020,E07000228,Woodland area as a portion of standard area,Percent,25.32
+2020,E07000229,Woodland area as a portion of standard area,Percent,6.02
+2020,E07000234,Woodland area as a portion of standard area,Percent,10.31
+2020,E07000235,Woodland area as a portion of standard area,Percent,10.75
+2020,E07000236,Woodland area as a portion of standard area,Percent,10.87
+2020,E07000237,Woodland area as a portion of standard area,Percent,4.44
+2020,E07000238,Woodland area as a portion of standard area,Percent,7.11
+2020,E07000239,Woodland area as a portion of standard area,Percent,18.04
+2020,E07000240,Woodland area as a portion of standard area,Percent,12.09
+2020,E07000241,Woodland area as a portion of standard area,Percent,18.58
+2020,E07000242,Woodland area as a portion of standard area,Percent,10.05
+2020,E07000243,Woodland area as a portion of standard area,Percent,6.39
+2020,E07000244,Woodland area as a portion of standard area,Percent,10.16
+2020,E07000245,Woodland area as a portion of standard area,Percent,14.43
+2020,E07000246,Woodland area as a portion of standard area,Percent,12.25
+2020,E08000001,Woodland area as a portion of standard area,Percent,9.65
+2020,E08000002,Woodland area as a portion of standard area,Percent,8.94
+2020,E08000003,Woodland area as a portion of standard area,Percent,7.45
+2020,E08000004,Woodland area as a portion of standard area,Percent,5.68
+2020,E08000005,Woodland area as a portion of standard area,Percent,5.19
+2020,E08000006,Woodland area as a portion of standard area,Percent,9.37
+2020,E08000007,Woodland area as a portion of standard area,Percent,9.59
+2020,E08000008,Woodland area as a portion of standard area,Percent,8.85
+2020,E08000009,Woodland area as a portion of standard area,Percent,5.25
+2020,E08000010,Woodland area as a portion of standard area,Percent,9.89
+2020,E08000011,Woodland area as a portion of standard area,Percent,10.25
+2020,E08000012,Woodland area as a portion of standard area,Percent,4.73
+2020,E08000013,Woodland area as a portion of standard area,Percent,9.36
+2020,E08000014,Woodland area as a portion of standard area,Percent,5.59
+2020,E08000015,Woodland area as a portion of standard area,Percent,6.2
+2020,E08000016,Woodland area as a portion of standard area,Percent,11.31
+2020,E08000017,Woodland area as a portion of standard area,Percent,8.85
+2020,E08000018,Woodland area as a portion of standard area,Percent,10.26
+2020,E08000019,Woodland area as a portion of standard area,Percent,13.24
+2020,E08000021,Woodland area as a portion of standard area,Percent,5.81
+2020,E08000022,Woodland area as a portion of standard area,Percent,3.25
+2020,E08000023,Woodland area as a portion of standard area,Percent,3.4
+2020,E08000024,Woodland area as a portion of standard area,Percent,7.68
+2020,E08000025,Woodland area as a portion of standard area,Percent,6.05
+2020,E08000026,Woodland area as a portion of standard area,Percent,5.41
+2020,E08000027,Woodland area as a portion of standard area,Percent,6.93
+2020,E08000028,Woodland area as a portion of standard area,Percent,5.85
+2020,E08000029,Woodland area as a portion of standard area,Percent,6.79
+2020,E08000030,Woodland area as a portion of standard area,Percent,6.75
+2020,E08000031,Woodland area as a portion of standard area,Percent,3.89
+2020,E08000032,Woodland area as a portion of standard area,Percent,6.32
+2020,E08000033,Woodland area as a portion of standard area,Percent,7.22
+2020,E08000034,Woodland area as a portion of standard area,Percent,8.75
+2020,E08000035,Woodland area as a portion of standard area,Percent,9.83
+2020,E08000036,Woodland area as a portion of standard area,Percent,7.53
+2020,E08000037,Woodland area as a portion of standard area,Percent,15.34
+2020,E09000001,Woodland area as a portion of standard area,Percent,0.87
+2020,E09000002,Woodland area as a portion of standard area,Percent,1.25
+2020,E09000003,Woodland area as a portion of standard area,Percent,9.55
+2020,E09000004,Woodland area as a portion of standard area,Percent,7.74
+2020,E09000005,Woodland area as a portion of standard area,Percent,3.32
+2020,E09000006,Woodland area as a portion of standard area,Percent,14.79
+2020,E09000007,Woodland area as a portion of standard area,Percent,13.24
+2020,E09000008,Woodland area as a portion of standard area,Percent,12.9
+2020,E09000009,Woodland area as a portion of standard area,Percent,3.79
+2020,E09000010,Woodland area as a portion of standard area,Percent,7.97
+2020,E09000011,Woodland area as a portion of standard area,Percent,9.28
+2020,E09000012,Woodland area as a portion of standard area,Percent,4.29
+2020,E09000013,Woodland area as a portion of standard area,Percent,2.92
+2020,E09000014,Woodland area as a portion of standard area,Percent,8.85
+2020,E09000015,Woodland area as a portion of standard area,Percent,8.42
+2020,E09000016,Woodland area as a portion of standard area,Percent,8.58
+2020,E09000017,Woodland area as a portion of standard area,Percent,8.97
+2020,E09000018,Woodland area as a portion of standard area,Percent,5.74
+2020,E09000019,Woodland area as a portion of standard area,Percent,3.17
+2020,E09000020,Woodland area as a portion of standard area,Percent,5.19
+2020,E09000021,Woodland area as a portion of standard area,Percent,5.23
+2020,E09000022,Woodland area as a portion of standard area,Percent,2.54
+2020,E09000023,Woodland area as a portion of standard area,Percent,4.88
+2020,E09000024,Woodland area as a portion of standard area,Percent,8.83
+2020,E09000025,Woodland area as a portion of standard area,Percent,1.91
+2020,E09000026,Woodland area as a portion of standard area,Percent,6.51
+2020,E09000027,Woodland area as a portion of standard area,Percent,16.79
+2020,E09000028,Woodland area as a portion of standard area,Percent,5.97
+2020,E09000029,Woodland area as a portion of standard area,Percent,3.39
+2020,E09000030,Woodland area as a portion of standard area,Percent,4.04
+2020,E09000031,Woodland area as a portion of standard area,Percent,10.27
+2020,E09000032,Woodland area as a portion of standard area,Percent,8.22
+2020,E09000033,Woodland area as a portion of standard area,Percent,11.97
+2020,N09000001,Woodland area as a portion of standard area,Percent,4.25
+2020,N09000002,Woodland area as a portion of standard area,Percent,3.85
+2020,N09000003,Woodland area as a portion of standard area,Percent,5.66
+2020,N09000004,Woodland area as a portion of standard area,Percent,12.07
+2020,N09000005,Woodland area as a portion of standard area,Percent,9.61
+2020,N09000006,Woodland area as a portion of standard area,Percent,13.3
+2020,N09000007,Woodland area as a portion of standard area,Percent,3.56
+2020,N09000008,Woodland area as a portion of standard area,Percent,6.11
+2020,N09000009,Woodland area as a portion of standard area,Percent,6.68
+2020,N09000010,Woodland area as a portion of standard area,Percent,6.75
+2020,N09000011,Woodland area as a portion of standard area,Percent,4.5
+2020,S12000005,Woodland area as a portion of standard area,Percent,14.81
+2020,S12000006,Woodland area as a portion of standard area,Percent,28.46
+2020,S12000008,Woodland area as a portion of standard area,Percent,21.79
+2020,S12000010,Woodland area as a portion of standard area,Percent,9.87
+2020,S12000011,Woodland area as a portion of standard area,Percent,13.62
+2020,S12000013,Woodland area as a portion of standard area,Percent,1.11
+2020,S12000014,Woodland area as a portion of standard area,Percent,15.22
+2020,S12000017,Woodland area as a portion of standard area,Percent,16.55
+2020,S12000018,Woodland area as a portion of standard area,Percent,13.28
+2020,S12000019,Woodland area as a portion of standard area,Percent,13.35
+2020,S12000020,Woodland area as a portion of standard area,Percent,30.26
+2020,S12000021,Woodland area as a portion of standard area,Percent,17.23
+2020,S12000023,Woodland area as a portion of standard area,Percent,0.22
+2020,S12000026,Woodland area as a portion of standard area,Percent,21.18
+2020,S12000027,Woodland area as a portion of standard area,Percent,0.04
+2020,S12000028,Woodland area as a portion of standard area,Percent,29.95
+2020,S12000029,Woodland area as a portion of standard area,Percent,18.36
+2020,S12000030,Woodland area as a portion of standard area,Percent,26.28
+2020,S12000033,Woodland area as a portion of standard area,Percent,12.59
+2020,S12000034,Woodland area as a portion of standard area,Percent,17.84
+2020,S12000035,Woodland area as a portion of standard area,Percent,30.26
+2020,S12000036,Woodland area as a portion of standard area,Percent,10.63
+2020,S12000038,Woodland area as a portion of standard area,Percent,12.95
+2020,S12000039,Woodland area as a portion of standard area,Percent,23.71
+2020,S12000040,Woodland area as a portion of standard area,Percent,20.16
+2020,S12000041,Woodland area as a portion of standard area,Percent,10.5
+2020,S12000042,Woodland area as a portion of standard area,Percent,6.71
+2020,S12000045,Woodland area as a portion of standard area,Percent,17.0
+2020,S12000047,Woodland area as a portion of standard area,Percent,13.45
+2020,S12000048,Woodland area as a portion of standard area,Percent,18.7
+2020,S12000049,Woodland area as a portion of standard area,Percent,9.21
+2020,S12000050,Woodland area as a portion of standard area,Percent,21.7
+2020,W06000001,Woodland area as a portion of standard area,Percent,4.78
+2020,W06000002,Woodland area as a portion of standard area,Percent,15.53
+2020,W06000003,Woodland area as a portion of standard area,Percent,13.33
+2020,W06000004,Woodland area as a portion of standard area,Percent,15.71
+2020,W06000005,Woodland area as a portion of standard area,Percent,9.86
+2020,W06000006,Woodland area as a portion of standard area,Percent,9.56
+2020,W06000008,Woodland area as a portion of standard area,Percent,15.4
+2020,W06000009,Woodland area as a portion of standard area,Percent,9.59
+2020,W06000010,Woodland area as a portion of standard area,Percent,16.68
+2020,W06000011,Woodland area as a portion of standard area,Percent,11.59
+2020,W06000012,Woodland area as a portion of standard area,Percent,39.3
+2020,W06000013,Woodland area as a portion of standard area,Percent,16.53
+2020,W06000014,Woodland area as a portion of standard area,Percent,8.43
+2020,W06000015,Woodland area as a portion of standard area,Percent,11.23
+2020,W06000016,Woodland area as a portion of standard area,Percent,27.36
+2020,W06000018,Woodland area as a portion of standard area,Percent,20.42
+2020,W06000019,Woodland area as a portion of standard area,Percent,15.04
+2020,W06000020,Woodland area as a portion of standard area,Percent,16.09
+2020,W06000021,Woodland area as a portion of standard area,Percent,16.41
+2020,W06000022,Woodland area as a portion of standard area,Percent,10.78
+2020,W06000023,Woodland area as a portion of standard area,Percent,15.1
+2020,W06000024,Woodland area as a portion of standard area,Percent,16.92
