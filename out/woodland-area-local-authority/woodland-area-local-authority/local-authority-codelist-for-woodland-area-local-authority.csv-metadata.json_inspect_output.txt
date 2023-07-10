@@ -5,8 +5,8 @@
         - The code list has the following catalog metadata:
           - Title: Local authority codelist for Woodland Area Local Authority
           - Label: Local authority codelist for Woodland Area Local Authority
-          - Issued: 2023-07-07T14:50:30.632923
-          - Modified: 2023-07-07T14:50:30.632923
+          - Issued: 2023-07-10T13:03:14.969905
+          - Modified: 2023-07-10T13:03:14.969905
           - License: https://creativecommons.org/licenses/by/4.0/
           - Creator: https://www.gov.uk/government/organisations/office-for-national-statistics
           - Publisher: https://www.gov.uk/government/organisations/office-for-national-statistics
