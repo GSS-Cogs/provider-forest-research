@@ -45,11 +45,11 @@
             "values": [
                 {
                     "label": "Hectares",
-                    "definition_uri": "http://gss-data.org.uk/def/climate-change/concept/measurement-unit/hectares"
+                    "from_existing": "http://qudt.org/vocab/unit/HA"
                 },     
                 {
                     "label": "Hectares",
-                    "definition_uri": "http://gss-data.org.uk/def/climate-change/concept/measurement-unit/hectares"
+                    "from_existing": "http://qudt.org/vocab/unit/HA"
                 },
                 {
                     "label": "Percent",
