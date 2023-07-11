@@ -20,7 +20,6 @@
         "Local authority code": {
             "type": "dimension",
             "label": "Statistical Geography",
-            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea",
             "code_list": "./local_authority_codelist.json"
         },
         "Measure":{
