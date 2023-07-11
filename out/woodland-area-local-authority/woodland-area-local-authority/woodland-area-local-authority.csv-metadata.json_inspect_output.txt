@@ -14,9 +14,9 @@
           - Themes: 
 		-- http://gss-data.org.uk/def/gdp#climate-change
           - Keywords: 
+		-- woodland
 		-- area
 		-- percentage
-		-- woodland
           - Contact Point: None
           - Identifier: Woodland Area Local Authority
           - Comment: Woodland area by local authority for 2020
