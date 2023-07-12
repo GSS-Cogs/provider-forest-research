@@ -5,13 +5,25 @@
     "tableSchema": "local-authority-codelist-for-woodland-area-local-authority.table.json",
     "rdfs:seeAlso": [
         {
+            "@id": "local-authority-codelist-for-woodland-area-local-authority.csv#csvcubed-build-activity",
+            "@type": [
+                "http://www.w3.org/ns/prov#Activity",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://www.w3.org/ns/prov#used": [
+                {
+                    "@id": "https://github.com/GSS-Cogs/csvcubed/releases/tag/v0.4.5"
+                }
+            ]
+        },
+        {
             "@id": "local-authority-codelist-for-woodland-area-local-authority.csv#code-list",
             "@type": [
-                "http://www.w3.org/ns/dcat#Dataset",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://www.w3.org/2004/02/skos/core#ConceptScheme",
                 "http://www.w3.org/ns/prov#Entity",
-                "http://www.w3.org/ns/dcat#Resource"
+                "http://www.w3.org/ns/dcat#Dataset",
+                "http://www.w3.org/ns/dcat#Resource",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
             ],
             "http://purl.org/dc/terms/creator": [
                 {
@@ -32,7 +44,7 @@
             "http://purl.org/dc/terms/issued": [
                 {
                     "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-                    "@value": "2023-07-12T10:57:57.040222"
+                    "@value": "2023-07-12T11:17:53.933659"
                 }
             ],
             "http://purl.org/dc/terms/license": [
@@ -43,7 +55,7 @@
             "http://purl.org/dc/terms/modified": [
                 {
                     "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-                    "@value": "2023-07-12T10:57:57.040222"
+                    "@value": "2023-07-12T11:17:53.933659"
                 }
             ],
             "http://purl.org/dc/terms/publisher": [
@@ -72,18 +84,6 @@
             "http://www.w3.org/ns/prov#wasGeneratedBy": [
                 {
                     "@id": "local-authority-codelist-for-woodland-area-local-authority.csv#csvcubed-build-activity"
-                }
-            ]
-        },
-        {
-            "@id": "local-authority-codelist-for-woodland-area-local-authority.csv#csvcubed-build-activity",
-            "@type": [
-                "http://www.w3.org/ns/prov#Activity",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
-            ],
-            "http://www.w3.org/ns/prov#used": [
-                {
-                    "@id": "https://github.com/GSS-Cogs/csvcubed/releases/tag/v0.4.5"
                 }
             ]
         }
