@@ -6,7 +6,7 @@
           - Title: Woodland Area Local Authority
           - Label: Woodland Area Local Authority
           - Issued: 2023-06-20T09:30:00
-          - Modified: 2023-06-20T09:30:00
+          - Modified: 2023-10-31T11:22:00
           - License: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
           - Creator: https://www.gov.uk/government/organisations/forest-research
           - Publisher: https://www.gov.uk/government/organisations/forest-research
@@ -14,9 +14,10 @@
           - Themes: 
 		-- http://gss-data.org.uk/def/gdp#climate-change
           - Keywords: 
-		-- area
 		-- woodland
 		-- percentage
+		-- area
+		-- subnational
           - Contact Point: None
           - Identifier: Woodland Area Local Authority
           - Comment: Woodland area by local authority for 2020
